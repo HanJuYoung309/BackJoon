@@ -19,5 +19,7 @@ public class Main {
         }else{
             System.out.println("==");
         }
+
+        System.out.println("커밋테스트...중....");
     }
 }
